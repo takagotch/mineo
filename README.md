@@ -9,8 +9,9 @@ activated@mineo.jp
 ```
 
 ```
+// IMAP サーバー
 imaps.mineo.jp
-
+// SMTP サーバー
 smtps.mineo.jp
 ```
 
