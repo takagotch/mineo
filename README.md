@@ -1,4 +1,4 @@
-### [mineo]()
+### [mineo](https://github.com/takagotch/optage)
 ---
 ###### メールアカウント設定（Android™端末）｜mineoユーザーサポート
 https://support.mineo.jp/setup/guide/mail_account.html
