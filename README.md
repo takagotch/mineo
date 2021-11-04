@@ -1,8 +1,12 @@
-### o
+### mineo
 ---
+###### 
 
 
 ```
+activated@mineo.jp
+
+
 ```
 
 ```
